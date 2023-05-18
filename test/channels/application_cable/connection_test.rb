@@ -1,5 +1,5 @@
-require "test_helper"
-
+require 'test_helper'
+# rubocop:enable Layout/EndOfLine
 class ApplicationCable::ConnectionTest < ActionCable::Connection::TestCase
   # test "connects with cookies" do
   #   cookies.signed[:user_id] = 42
